@@ -1,0 +1,1 @@
+<% response.sendRedirect(request.getContextPath() + "/portal/login.action"); %>
